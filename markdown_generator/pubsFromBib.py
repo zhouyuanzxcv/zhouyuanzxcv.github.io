@@ -70,6 +70,13 @@ for pubsource in publist:
         try:
             pub_year = f'{b["year"]}'
 
+            if 'booktitle' in b.keys():
+                pubtype = 'conference'
+            elif 'journal' in b.keys():
+                pubtype = 'journal'
+            else:
+                pubtype = 'other'
+
             #todo: this hack for month and day needs some cleanup
             if "month" in b.keys(): 
                 if(len(b["month"])<3):
@@ -125,7 +132,9 @@ for pubsource in publist:
                     md += "\nexcerpt: '" + html_escape(b["note"]) + "'"
                     note = True
 
-            md += "\ndate: " + str(pub_date) 
+            md += "\ndate: " + str(pub_date)
+
+            md += "\npubtype: " + pubtype
 
             md += "\nvenue: '" + html_escape(venue) + "'"
             
