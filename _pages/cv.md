@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,35 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Software Engineering, Huazhong University of Science and Technology, 2008
+* M.S. in Computer Application Technology, Huazhong University of Science and Technology, 2011
+* Ph.D. in Computer Science, University of Florida, 2018 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2011.5 - 2013.8: Software Engineer at Shanghai United Imaging Healthcare, Shanghai, China
+* 2014.8 - 2018.5: Research Assistant at Department of CISE, University of Florida, Gainesville, FL, USA
+* 2018.8 - 2021.6: Postdoc Associate at Department of Radiology and Biomedical Imaging, Yale University, New Haven, CT, USA
+* 2021.9 - Now: Assistant Professor at School of Data Science, Fudan University, Shanghai, China
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+<!---
 Publications
 ======
+
   <ul>{% for post in site.publications %}
+
     {% include archive-single-cv.html %}
+
   {% endfor %}</ul>
   
 Talks
@@ -53,7 +43,12 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
-Service and leadership
+Academic Service
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for 
+  * IEEE Transactions on Image Processing 
+  * IEEE Transactions on Geoscience and Remote Sensing 
+  * IEEE Geoscience and Remote Sensing Letters
+  * International Journal of Remote Sensing

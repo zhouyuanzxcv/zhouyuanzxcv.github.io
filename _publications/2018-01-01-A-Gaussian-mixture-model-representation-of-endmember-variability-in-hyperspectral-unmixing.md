@@ -1,10 +1,13 @@
 ---
-title: "A Gaussian mixture model representation of endmember variability in hyperspectral unmixing"
+title: "A Gaussian Mixture Model Representation of Endmember Variability in Hyperspectral Unmixing"
 collection: publications
-permalink: /publication/2018-01-01-A-Gaussian-mixture-model-representation-of-endmember-variability-in-hyperspectral-unmixing
+permalink: /publication/2018-01-01-A-Gaussian-Mixture-Model-Representation-of-Endmember-Variability-in-Hyperspectral-Unmixing
 date: 2018-01-01
 pubtype: journal
 venue: 'IEEE Transactions on Image Processing'
-citation: ' Yuan Zhou,  Anand Rangarajan,  Paul Gader, &quot;A Gaussian mixture model representation of endmember variability in hyperspectral unmixing.&quot; IEEE Transactions on Image Processing, 2018.'
+code: https://github.com/zhouyuanzxcv/Hyperspectral
+pdf: ../files/papers/Zhou et al_2018_A Gaussian mixture model representation of endmember variability in hyperspectral unmixing.pdf
+url: 'https://ieeexplore.ieee.org/abstract/document/8264812'
+citation: ' <b>Yuan Zhou</b>,  Anand Rangarajan,  Paul Gader, "<a href="https://ieeexplore.ieee.org/abstract/document/8264812">A Gaussian Mixture Model Representation of Endmember Variability in Hyperspectral Unmixing</a>." <i>IEEE Transactions on Image Processing</i>, 2018.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=A+Gaussian+mixture+model+representation+of+endmember+variability+in+hyperspectral+unmixing){:target="_blank"} for full citation
+[Access paper here](https://ieeexplore.ieee.org/abstract/document/8264812){:target="_blank"}

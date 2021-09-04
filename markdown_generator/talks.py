@@ -70,7 +70,7 @@ for row, item in talks.iterrows():
     html_filename = str(item.date) + "-" + item.url_slug 
     year = item.date[:4]
     
-    md = "---\ntitle: \""   + item.title + '"\n'
+    md = "---\ntitle: \"" + item.title_for_html + '"\n'
     md += "collection: talks" + "\n"
     
     if len(str(item.type)) > 3:
