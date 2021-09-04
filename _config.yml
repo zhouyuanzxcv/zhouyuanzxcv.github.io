@@ -9,10 +9,10 @@ github: [metadata]
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuan Zhou / Yuan Zhou's website"
+title                    : "Introduction"
 title_separator          : "-"
 name                     : &name "Yuan Zhou"
-description              : &description "personal description"
+description              : &description "Yuan Zhou's website"
 url                      : https://zhouyuanzxcv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhouyuanzxcv.github.io"
@@ -84,13 +84,13 @@ analytics:
 author:
   name             : "Yuan Zhou"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Assistant Professor at School of Data Science, Fudan University"
+  location         : "1405-1, 539 Handan Rd, Shanghai"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=00ZKAu8AAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : zhouyuanzxcv@gmail.com
+  researchgate     : "https://www.researchgate.net/profile/Yuan-Zhou-43"
   uri              :
   bitbucket        :
   codepen          :
@@ -105,13 +105,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -177,10 +177,16 @@ kramdown:
 
 # Collections
 collections:
+  research:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  people:
     output: true
     permalink: /:collection/:path/
   portfolio:

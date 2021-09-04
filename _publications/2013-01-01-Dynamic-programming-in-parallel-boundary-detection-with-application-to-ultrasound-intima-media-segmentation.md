@@ -1,13 +1,12 @@
 ---
-title: "Dynamic programming in parallel boundary detection with application to ultrasound intima-media segmentation"
+title: "Dynamic Programming in Parallel Boundary Detection with Application to Ultrasound Intima-Media Segmentation"
 collection: publications
-permalink: /publication/2013-01-01-Dynamic-programming-in-parallel-boundary-detection-with-application-to-ultrasound-intima-media-segmentation
-excerpt: 'Publisher: Elsevier'
+permalink: /publication/2013-01-01-Dynamic-Programming-in-Parallel-Boundary-Detection-with-Application-to-Ultrasound-Intima-Media-Segmentation
 date: 2013-01-01
 pubtype: journal
 venue: 'Medical image analysis'
-citation: ' Yuan Zhou,  Xinyao Cheng,  Xiangyang Xu,  Enmin Song, &quot;Dynamic programming in parallel boundary detection with application to ultrasound intima-media segmentation.&quot; Medical image analysis, 2013.'
+code: https://github.com/zhouyuanzxcv/Intima-Media-Segmentation
+url: 'https://www.sciencedirect.com/science/article/abs/pii/S1361841513000832'
+citation: ' <b>Yuan Zhou</b>,  Xinyao Cheng,  Xiangyang Xu,  Enmin Song, "<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841513000832">Dynamic Programming in Parallel Boundary Detection with Application to Ultrasound Intima-Media Segmentation</a>." <i>Medical image analysis</i>, 2013.'
 ---
-Publisher: Elsevier
-
-Use [Google Scholar](https://scholar.google.com/scholar?q=Dynamic+programming+in+parallel+boundary+detection+with+application+to+ultrasound+intima+media+segmentation){:target="_blank"} for full citation
+[Access paper here](https://www.sciencedirect.com/science/article/abs/pii/S1361841513000832){:target="_blank"}

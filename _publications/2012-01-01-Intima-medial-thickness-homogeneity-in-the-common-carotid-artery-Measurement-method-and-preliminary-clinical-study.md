@@ -1,13 +1,10 @@
 ---
-title: "Intima-medial thickness homogeneity in the common carotid artery: Measurement method and preliminary clinical study"
+title: "Intima-Medial Thickness Homogeneity in the Common Carotid Artery: Measurement Method and Preliminary Clinical Study"
 collection: publications
-permalink: /publication/2012-01-01-Intima-medial-thickness-homogeneity-in-the-common-carotid-artery-Measurement-method-and-preliminary-clinical-study
-excerpt: 'Publisher: Wiley Online Library'
+permalink: /publication/2012-01-01-Intima-Medial-Thickness-Homogeneity-in-the-Common-Carotid-Artery-Measurement-Method-and-Preliminary-Clinical-Study
 date: 2012-01-01
 pubtype: journal
 venue: 'Journal of Clinical Ultrasound'
-citation: ' Xinyao Cheng,  Yuan Zhou,  Yalei Jin,  Guokuan Li,  Hua Wang,  Enmin Song, &quot;Intima-medial thickness homogeneity in the common carotid artery: Measurement method and preliminary clinical study.&quot; Journal of Clinical Ultrasound, 2012.'
+citation: ' Xinyao Cheng,  <b>Yuan Zhou</b>,  Yalei Jin,  Guokuan Li,  Hua Wang,  Enmin Song, "Intima-Medial Thickness Homogeneity in the Common Carotid Artery: Measurement Method and Preliminary Clinical Study." <i>Journal of Clinical Ultrasound</i>, 2012.'
 ---
-Publisher: Wiley Online Library
-
-Use [Google Scholar](https://scholar.google.com/scholar?q=Intima+medial+thickness+homogeneity+in+the+common+carotid+artery:+Measurement+method+and+preliminary+clinical+study){:target="_blank"} for full citation
+Use [Google Scholar](https://scholar.google.com/scholar?q=Intima+Medial Thickness Homogeneity in the Common Carotid Artery: Measurement Method and Preliminary Clinical Study){:target="_blank"} for full citation
