@@ -18,7 +18,7 @@ Medical images can be categorized into different modalities, e.g. MRI, CT, Ultra
 
 ## Disease Progression Modeling
 
-<img align="right" width="300" src="/images/research/medical imaging/datscan_examples.png"> 
+<img align="right" width="30%" src="/images/research/medical imaging/datscan_examples.png"> 
 
 Parkinson's disease (PD) is neurodegenerative disease caused by loss of dopaminergic neurons in the substantia nigra, accompanied by progressively worsening motor symptoms. We study PD using SPECT imaging with 123I-FP-CIT which is a radiotracer that binds to dopamine transporters hence visualizes the amount of dopaminergic neurons in the brain. The loss of dopaminergic neurons in PD is thus reflected as loss of signal in these SPECT images. 
 
@@ -45,7 +45,7 @@ Unlike color images that have only 3 bands covering the visible range (470 nm --
 
 ## Spectral Unmixing
 
-<img align="right" width="400" src="/images/research/hyperspectral/mixed_pixel.jpg"> 
+<img align="right" width="40%" src="/images/research/hyperspectral/mixed_pixel.jpg"> 
 
 One application of hyperspectral images is land cover mapping. Land cover information refers to the spatial composition of man-made materials (e.g. asphalt, roof) and green vegetation (e.g. trees, grass) of a particular area, usually an urban area. This information is useful because urban environment is impacted by the spatial distribution of these materials, which in turn impacts the resident health and even global climate. 
 
