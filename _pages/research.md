@@ -18,7 +18,7 @@ Medical images can be categorized into different modalities, e.g. MRI, CT, Ultra
 
 ## Disease Progression Modeling
 
-<img align="right" width="30%" src="/images/research/medical imaging/datscan_examples.png"> 
+<img align="right" width="30%" src="/images/research/medical_imaging/datscan_examples.png"> 
 
 Parkinson's disease (PD) is neurodegenerative disease caused by loss of dopaminergic neurons in the substantia nigra, accompanied by progressively worsening motor symptoms. We study PD using SPECT imaging with 123I-FP-CIT which is a radiotracer that binds to dopamine transporters hence visualizes the amount of dopaminergic neurons in the brain. The loss of dopaminergic neurons in PD is thus reflected as loss of signal in these SPECT images. 
 
@@ -27,6 +27,10 @@ SPECT imaging with 123I-FP-CIT is also called DaTscan imaging and is approved by
 ## Graph Representation Learning
 
 Regions in the brain are connected by neurons. Combining the regions and their connections, we can form a graph that characterize the brain structure. Hence, by analyzing the signal on the graph from fMRI (or MRI, DTI), we can study brain diseases. With the recent popularity of geometric deep learning, graph neural network is an ideal tool to study the signal on a graph. We build graphs from fMRI images of Autism and use message passing neural network (MPNN) to classify Autism from health controls [...](https://www.biorxiv.org/content/10.1101/2020.05.16.100057v4.abstract)
+
+<p align="center">
+  <img width="80%" src="/images/research/medical_imaging/brain_gnn.jpg">
+</p> 
 
 ## Interpretability
 
