@@ -11,16 +11,16 @@ redirect_from:
 
 # Education
 
-* B.S. in Software Engineering, Huazhong University of Science and Technology, 2008
+* Ph.D. in Computer Science, University of Florida, 2018
 * M.S. in Computer Application Technology, Huazhong University of Science and Technology, 2011
-* Ph.D. in Computer Science, University of Florida, 2018 
+* B.S. in Software Engineering, Huazhong University of Science and Technology, 2008
 
 # Work Experience
 
-* 2011.5 - 2013.8: Software Engineer at Shanghai United Imaging Healthcare, Shanghai, China
-* 2014.8 - 2018.5: Research Assistant at Department of CISE, University of Florida, Gainesville, FL, USA
-* 2018.8 - 2021.6: Postdoc Associate at Department of Radiology and Biomedical Imaging, Yale University, New Haven, CT, USA
 * 2021.9 - Now: Assistant Professor at School of Data Science, Fudan University, Shanghai, China
+* 2018.8 - 2021.6: Postdoc Associate at Department of Radiology and Biomedical Imaging, Yale University, New Haven, CT, USA
+* 2014.8 - 2018.5: Research Assistant at Department of CISE, University of Florida, Gainesville, FL, USA
+* 2011.5 - 2013.8: Software Engineer at Shanghai United Imaging Healthcare, Shanghai, China
 
 <!---
 # Publications
