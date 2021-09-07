@@ -8,9 +8,9 @@
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}" title="June 2021 at Lighthouse Point Park">
+    	<img src="{{ author.avatar }}" alt="{{ author.name }}" title="August 2016 at Griffith Observatory">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}" title="June 2021 at Lighthouse Point Park">
+    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}" title="August 2016 at Griffith Observatory">
     {% endif %}
   </div>
 
