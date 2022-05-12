@@ -12,9 +12,9 @@ title: ""
 ## Uncertainty Quantification
 -->
 
-# Medical Imaging
+# Medical Image Analysis
 
-Medical images can be categorized into different modalities, e.g. MRI, CT, Ultrasound, PET/SPECT, etc. My research in medical imaging is mainly focused on PET/SPECT and fMRI imaging of the brain to study brain diseases. Depending on different modalities, signal in brain images represents different information in the brain. While MRI images can differentiate gray matter, white matter, cerebralspinal fluid, PET/SPECT images can be targeted to identify specific molecules in the brain. Therefore, the former is called *structural imaging* while the latter is called *functional imaging*. Brain imaging, a.k.a. neuroimaging, provides a way to observe what's happening in the brain --- the most complicated and mysterious organ in the human body. Hence, we can use neuroimaging to study brain diseases that can only be studied by symptoms before.
+Medical images can be categorized into different modalities, e.g. MRI, CT, Ultrasound, PET/SPECT, etc. My research in medical imaging is mainly focused on PET/SPECT and fMRI imaging of the brain to study brain diseases. Depending on different modalities, signal in brain images represents different information in the brain. For example, while MRI images can differentiate gray matter, white matter, cerebralspinal fluid, PET/SPECT images can be targeted to identify specific molecules in the brain. Therefore, the former is called *structural imaging* while the latter is called *functional imaging*. Regardless of the information presented in the image, they are both called neuroimaging and provide a way to observe what's happening in the brain. In our work, we use neuroimaging to study brain diseases such as Parkinson's disease.
 
 ## Disease Progression Modeling
 
@@ -41,7 +41,7 @@ Medical application requires the methodology to be interpretable. Traditional ma
 ## Image Segmentation
 -->
 
-# Remote Sensing
+# Hyperspectral Image Analysis
 
 Unlike color images that have only 3 bands covering the visible range (470 nm -- 860 nm), remote sensing images often provide additional spectral information by also covering the reflectance in the near-infrared (750 nm -- 1000 nm) and short-wave infrared range (1000 nm -- 2500 nm). This is because remote sensing images are usually acquired from a satellite or an aircraft to monitor the surface of the earth. The extra spectral bands offer additional information to discriminate different materials on the earth. The resulting multi-band image is called *multispectral* image when we have tens of bands, or *hyperspectral image* when the number of bands approaches a hundred.
 
@@ -55,7 +55,7 @@ One application of hyperspectral images is land cover mapping. Land cover inform
 
 Land cover mapping can be achieved by directly classifying the pixels (spectra) in hyperspectral images. However, this requires the hyperspectral image to be collected from an aircraft flying at a low altitude, which is an expensive process. A promising future is to use an orbital spectrometer (onboard a satellite) to collect hyperspectral images continuously. Then, however, the spatial resolution of the collected hyperspectral image will not be promising, i.e. a pixel may corresponds to several meters' area (e.g. 16 m or 30 m diameter) on the earth. In this case, we need some kind of *soft-classification* to find the proportion of different materials in a pixel. This problem is called the *spectral unmixing* problem [...](https://github.com/zhouyuanzxcv/Hyperspectral) 
 
-## Image Fusion
+## Registration and Fusion
 
 Another problem is that a satellite often provides a multispectral image (or a panchromatic image) in addition to the hyperspectral image. A multispectral image has higher spatial resolution than a hyperspectral image but lower spectral resolution. Fusing these two types of images can lead to a both spatially and spectrally high-resolution image. How to spatially calibrate these two images for fusion (i.e. image registration) and how to combine them to produce an image that has both the advantages is another research topic [...](https://github.com/zhouyuanzxcv/Hyperspectral)
 
