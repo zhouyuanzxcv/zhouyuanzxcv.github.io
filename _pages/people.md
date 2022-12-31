@@ -9,6 +9,10 @@ title: ""
 
 [Shengjie Zhang]() (coadvised with Xiaoyong Zhang)
 
+## Master students
+
+[Lijinghua Zhang]()
+
 ## Undergraduate 
 
 [Jiangchuan Du]()
