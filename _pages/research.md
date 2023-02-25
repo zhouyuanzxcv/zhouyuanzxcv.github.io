@@ -23,7 +23,7 @@ title: ""
 	<article>
 		<div class="inner">
 			<h2>Medical Image Segmentation</h2>
-			<p style="text-align:justify; text-justify:inter-ideograph;">Traditional medical image segmentation is achieved by handcrafted algorithms targeted to a specific region. Nowadays, segmentation is achieved by training based algorithms (such as U-Net) that treat segmentation as a pixel-wise classification problem. We apply contrastive learning in semi-supervised medical image segmentation (TMI 2021). </p>
+			<p style="text-align:justify; text-justify:inter-ideograph;">Traditional medical image segmentation is achieved by handcrafted algorithms targeted to a specific region. Nowadays, segmentation is achieved by training based algorithms (such as U-Net) that treat segmentation as a pixel-wise classification problem. We apply contrastive learning in semi-supervised medical image segmentation (TMI 2022). </p>
 		</div>
 		<a href="#" class="image"><img src="/images/research/medical_imaging/simcvd.jpg" alt="" /></a>
 	</article>
