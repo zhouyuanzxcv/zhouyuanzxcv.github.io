@@ -22,7 +22,6 @@ title: ""
 
 # Past Students
 
-[Lijinghua Zhang]() (UC Irvine)
-
 [Jiangchuan Du]() (University of Chicago)
 
+[Lijinghua Zhang]() (UC Irvine)
