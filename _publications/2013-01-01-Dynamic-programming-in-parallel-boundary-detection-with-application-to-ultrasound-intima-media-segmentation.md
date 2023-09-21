@@ -7,7 +7,6 @@ pubtype: journal
 venue: 'Medical image analysis'
 code: https://github.com/zhouyuanzxcv/Intima-Media-Segmentation
 pdf: ../files/papers/Zhou et al_2013_Dynamic programming in parallel boundary detection with application to ultrasound intima-media segmentation.pdf
-url: 'https://www.sciencedirect.com/science/article/abs/pii/S1361841513000832'
-citation: ' <b>Yuan Zhou</b>,  Xinyao Cheng,  Xiangyang Xu,  Enmin Song, "<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841513000832">Dynamic Programming in Parallel Boundary Detection with Application to Ultrasound Intima-Media Segmentation</a>." <i>Medical image analysis</i>, 2013.'
+citation: ' <b>Yuan Zhou</b>,  Xinyao Cheng,  Xiangyang Xu,  Enmin Song, "Dynamic Programming in Parallel Boundary Detection with Application to Ultrasound Intima-Media Segmentation." <i>Medical image analysis</i>, 2013.'
 ---
-[Access paper here](https://www.sciencedirect.com/science/article/abs/pii/S1361841513000832){:target="_blank"}
+Use [Google Scholar](https://scholar.google.com/scholar?q=Dynamic Programming in Parallel Boundary Detection with Application to Ultrasound Intima+Media Segmentation){:target="_blank"} for full citation

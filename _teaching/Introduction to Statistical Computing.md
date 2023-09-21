@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/Introduction to Statistical Computing
 venue: "Fudan University, School of Data Science"
-date: 2022-09-01
+date: 2023-09-01
 location: "Shanghai, China"
 ---
 

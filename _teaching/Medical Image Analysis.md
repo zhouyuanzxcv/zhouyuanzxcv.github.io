@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/Medical Image Analysis
 venue: "Fudan University, School of Data Science"
-date: 2022-02-25
+date: 2023-02-25
 location: "Shanghai, China"
 ---
 

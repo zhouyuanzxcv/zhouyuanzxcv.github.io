@@ -9,11 +9,20 @@ title: ""
 
 [Shengjie Zhang]() (coadvised with Xiaoyong Zhang)
 
+[Yipin Zhang]() (coadvised with Xiaoyong Zhang)
+
 ## Master students
 
-[Lijinghua Zhang]()
 
 ## Undergraduate 
 
-[Jiangchuan Du]()
+[Junru Qiu]()
+
+<br />
+
+# Past Students
+
+[Lijinghua Zhang]() (UC Irvine)
+
+[Jiangchuan Du]() (University of Chicago)
 

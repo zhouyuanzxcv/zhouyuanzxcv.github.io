@@ -46,11 +46,9 @@ redirect_from:
   
 # Academic Service
 
-* Reviewer for 
-  * IEEE Transactions on Image Processing 
-  * IEEE Transactions on Geoscience and Remote Sensing 
-  * IEEE Geoscience and Remote Sensing Letters
-  * International Journal of Remote Sensing
+* Session chair, Information Processing in Medical Imaging, 2023
+* Program committee member, MICCAI workshop on Machine Learning in Clinical Neuroimaging, 2022, 2023 
+* Reviewer for multiple IEEE Transactions (Image Processing, Medical Imaging, Radiation and Plasma Medical Sciences, Geoscience and Remote Sensing, Geoscience and Remote Sensing Letters), Neural Networks, International Journal of Remote Sensing
   
 # Honors and Awards
 

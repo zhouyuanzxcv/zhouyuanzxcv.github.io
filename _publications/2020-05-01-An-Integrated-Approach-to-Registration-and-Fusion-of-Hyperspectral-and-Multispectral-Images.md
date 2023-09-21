@@ -7,7 +7,6 @@ pubtype: journal
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 code: https://github.com/zhouyuanzxcv/Hyperspectral
 pdf: ../files/papers/Zhou et al_2020_An Integrated Approach to Registration and Fusion of Hyperspectral and Multispectral Images.pdf
-url: 'https://ieeexplore.ieee.org/abstract/document/8897135'
-citation: ' <b>Yuan Zhou</b>,  A. Rangarajan,  P. Gader, "<a href="https://ieeexplore.ieee.org/abstract/document/8897135">An Integrated Approach to Registration and Fusion of Hyperspectral and Multispectral Images</a>." <i>IEEE Transactions on Geoscience and Remote Sensing</i>, 2020.'
+citation: ' <b>Yuan Zhou</b>,  A. Rangarajan,  P. Gader, "An Integrated Approach to Registration and Fusion of Hyperspectral and Multispectral Images." <i>IEEE Transactions on Geoscience and Remote Sensing</i>, 2020.'
 ---
-[Access paper here](https://ieeexplore.ieee.org/abstract/document/8897135){:target="_blank"}
+Use [Google Scholar](https://scholar.google.com/scholar?q=An Integrated Approach to Registration and Fusion of Hyperspectral and Multispectral Images){:target="_blank"} for full citation
